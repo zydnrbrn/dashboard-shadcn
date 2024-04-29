@@ -1,3 +1,5 @@
+# 🚧 This is forks from <a href='https://github.com/Kiranism/next-shadcn-dashboard-starter'>Kiranism</a>, thanks so much bro, i wanna edit my self 🥸, donate him on the repository.
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/9113740/201498864-2a900c64-d88f-4ed4-b5cf-770bcb57e1f5.png">
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/9113740/201498152-b171abb8-9225-487a-821c-6ff49ee48579.png">
@@ -28,7 +30,7 @@ This is a starter template using the following stack:
 - Linting - [ESLint](https://eslint.org)
 - Formatting - [Prettier](https://prettier.io)
 
-*If you are looking for a React admin dashboard starter, here is the [repo](https://github.com/Kiranism/react-shadcn-dashboard-starter).* 
+_If you are looking for a React admin dashboard starter, here is the [repo](https://github.com/Kiranism/react-shadcn-dashboard-starter)._
 
 ## Pages
 
@@ -56,4 +58,3 @@ Follow these steps to clone the repository and start the development server:
 - `npm run dev`
 
 You should now be able to access the application at http://localhost:3000.
-
