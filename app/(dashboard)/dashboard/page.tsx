@@ -131,8 +131,7 @@ export default function page() {
                 <CardContent>
                   <div className="text-2xl font-bold">+573</div>
                   <p className="text-xs text-muted-foreground">
-                    +201 sinc
-                    e last hour
+                    +201 sinc e last hour
                   </p>
                 </CardContent>
               </Card>
